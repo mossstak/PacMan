@@ -8,10 +8,10 @@ using UnityEngine;
 public class PlayerController : MonoBehaviour {
 
     //Settings
-    public float speed = 1.0f;//how fast PacMan can travel
+    public float speed = 1.0f;//the speed pacman can travel
 
     //Processing variables
-    private Vector2 direction;
+    private Vector2 direction; //the direction pacman is going
 
     //References
     private Rigidbody2D rb2d;
@@ -24,7 +24,7 @@ public class PlayerController : MonoBehaviour {
 	}
 	
 	void FixedUpdate () {
-        anim.SetFloat("currentSpeed", rb2d.velocity.magnitude);
+        anim.SetBool("moving", rb2d.velocity.magnitude > 0.1);
 		if (Input.GetAxis("Horizontal") < 0)
         {
             direction = Vector2.left;
