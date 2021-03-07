@@ -1,0 +1,662 @@
+fileFormatVersion: 2
+guid: 1cb0690fe1f05714fbbac520fe044fec
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7018625642551181636
+    second: pacman 1_0
+  - first:
+      213: 3028706069847860628
+    second: pacman 1_1
+  - first:
+      213: 3294732850389019343
+    second: pacman 1_2
+  - first:
+      213: -7207736991459837033
+    second: pacman 1_3
+  - first:
+      213: -7951111970876813172
+    second: pacman 1_4
+  - first:
+      213: -2480122077967536752
+    second: pacman 1_5
+  - first:
+      213: -3960908600561764155
+    second: pacman 1_6
+  - first:
+      213: 1045191366715680338
+    second: pacman 1_7
+  - first:
+      213: -4128092002050682381
+    second: pacman 1_8
+  - first:
+      213: -9007334691663899204
+    second: pacman 1_9
+  - first:
+      213: -3451289416008820417
+    second: pacman 1_10
+  - first:
+      213: 7217596348079153255
+    second: pacman 1_11
+  - first:
+      213: 4140974847145725371
+    second: pacman 1_12
+  - first:
+      213: -7089973845371791804
+    second: pacman 1_13
+  - first:
+      213: -1547197472032849981
+    second: pacman 1_14
+  - first:
+      213: 20022463695427088
+    second: pacman 1_15
+  - first:
+      213: 5036808334896102860
+    second: pacman 1_16
+  - first:
+      213: 6879691759242899156
+    second: pacman 1_17
+  - first:
+      213: -1145160238656398480
+    second: pacman 1_18
+  - first:
+      213: 1347615723057742933
+    second: pacman 1_19
+  - first:
+      213: 165603477990586773
+    second: pacman 1_20
+  - first:
+      213: 3257878074392907452
+    second: pacman 1_21
+  - first:
+      213: 7422859736330343795
+    second: pacman 1_22
+  - first:
+      213: -6662781705870872214
+    second: pacman 1_23
+  - first:
+      213: 3857110285254610425
+    second: pacman 1_24
+  - first:
+      213: -6675071453305192362
+    second: pacman 1_25
+  - first:
+      213: -645905524278464339
+    second: pacman 1_26
+  - first:
+      213: 138352024459750286
+    second: pacman 1_27
+  - first:
+      213: -2152925101857516230
+    second: pacman 1_28
+  - first:
+      213: -6897921617439230701
+    second: pacman 1_29
+  - first:
+      213: -2618249206737176428
+    second: pacman 1_30
+  - first:
+      213: 2759791259359668080
+    second: pacman 1_31
+  - first:
+      213: 5847886482244685327
+    second: pacman 1_32
+  - first:
+      213: 1828723553302690960
+    second: pacman 1_33
+  - first:
+      213: -2400112277692338349
+    second: pacman 1_34
+  - first:
+      213: 968871498451131874
+    second: pacman 1_35
+  - first:
+      213: 4724766378359310123
+    second: pacman 1_36
+  - first:
+      213: 3354270733893736045
+    second: pacman 1_37
+  - first:
+      213: 1248941621202447898
+    second: pacman 1_38
+  - first:
+      213: 7205999058110457738
+    second: pacman 1_39
+  - first:
+      213: 4511800356620112308
+    second: pacman 1_40
+  - first:
+      213: -1760007870405835329
+    second: pacman 1_41
+  - first:
+      213: -4188806160938166118
+    second: pacman 1_42
+  - first:
+      213: -853419717707168920
+    second: pacman 1_43
+  - first:
+      213: -312817547436296568
+    second: pacman 1_44
+  - first:
+      213: 3491966082193905155
+    second: pacman 1_45
+  - first:
+      213: -2359811992278919508
+    second: pacman 1_46
+  - first:
+      213: 8427508969004210936
+    second: pacman 1_47
+  - first:
+      213: -9097774538203539264
+    second: pacman 1_48
+  - first:
+      213: -6995449436339759523
+    second: pacman 1_49
+  - first:
+      213: 1594668021248442446
+    second: pacman 1_50
+  - first:
+      213: -4856212125357845693
+    second: pacman 1_51
+  - first:
+      213: -2768990386278412716
+    second: pacman 1_52
+  - first:
+      213: -854058452431393359
+    second: pacman 1_53
+  - first:
+      213: -3696874112476271719
+    second: pacman 1_54
+  - first:
+      213: 5856870617707170741
+    second: pacman 1_55
+  - first:
+      213: -213083706376512968
+    second: pacman 1_56
+  - first:
+      213: -1738282003410724528
+    second: pacman 1_57
+  - first:
+      213: 7980230243614632020
+    second: pacman 1_58
+  - first:
+      213: -2747970365513898893
+    second: pacman 1_59
+  - first:
+      213: 4924406458385911729
+    second: pacman 1_60
+  - first:
+      213: 3206091669551436474
+    second: pacman 1_61
+  - first:
+      213: 3114795694342770774
+    second: pacman 1_62
+  - first:
+      213: -3249410410081107718
+    second: pacman 1_63
+  - first:
+      213: 3314837107424858180
+    second: pacman 1_64
+  - first:
+      213: 5527465544678693361
+    second: pacman 1_65
+  - first:
+      213: 8046688025157237602
+    second: pacman 1_66
+  - first:
+      213: -12200198194475273
+    second: pacman 1_67
+  - first:
+      213: -5205427812887372392
+    second: pacman 1_68
+  - first:
+      213: 2371702593337658528
+    second: pacman 1_69
+  - first:
+      213: 6212871680543152408
+    second: pacman 1_70
+  - first:
+      213: -3450553183985714896
+    second: pacman 1_71
+  - first:
+      213: 9036060254377551134
+    second: pacman 1_72
+  - first:
+      213: -8267471650894888144
+    second: pacman 1_73
+  - first:
+      213: 4726762843662220855
+    second: pacman 1_74
+  - first:
+      213: -1462557779337448992
+    second: pacman 1_75
+  - first:
+      213: -5618701297655297340
+    second: pacman 1_76
+  - first:
+      213: 5197702423484027598
+    second: pacman 1_77
+  - first:
+      213: 9210703146709911207
+    second: pacman 1_78
+  - first:
+      213: -6394933815211255226
+    second: pacman 1_79
+  - first:
+      213: 6411330078580274457
+    second: pacman 1_80
+  - first:
+      213: -3255316221301446361
+    second: pacman 1_81
+  - first:
+      213: -4425861148930354496
+    second: pacman 1_82
+  - first:
+      213: -4533288555572375381
+    second: pacman 1_83
+  - first:
+      213: -4111578973015511532
+    second: pacman 1_84
+  - first:
+      213: -3276584878196366008
+    second: pacman 1_85
+  - first:
+      213: -1261389135074400613
+    second: pacman 1_86
+  - first:
+      213: 2582670474451390858
+    second: pacman 1_87
+  - first:
+      213: 4449963403009894513
+    second: pacman 1_88
+  - first:
+      213: -9014422099048930852
+    second: pacman 1_89
+  - first:
+      213: -1873884940758582999
+    second: pacman 1_90
+  - first:
+      213: 7383975431664519460
+    second: pacman 1_91
+  - first:
+      213: -4732768999950646909
+    second: pacman 1_92
+  - first:
+      213: 5842181255413407599
+    second: pacman 1_93
+  - first:
+      213: -3132771390260626034
+    second: pacman 1_94
+  - first:
+      213: -4899571165696080908
+    second: pacman 1_95
+  - first:
+      213: -1483820982205716909
+    second: pacman 1_96
+  - first:
+      213: -7882072837830764960
+    second: pacman 1_97
+  - first:
+      213: -3578786419692924145
+    second: pacman 1_98
+  - first:
+      213: 8909818911702521913
+    second: pacman 1_99
+  - first:
+      213: 7675244162820490690
+    second: pacman 1_100
+  - first:
+      213: -2472798208688892665
+    second: pacman 1_101
+  - first:
+      213: 6523246156569762990
+    second: pacman 1_102
+  - first:
+      213: -9075517283066639972
+    second: pacman 1_103
+  - first:
+      213: 2286069961373731651
+    second: pacman 1_104
+  - first:
+      213: 9043914260073447116
+    second: pacman 1_105
+  - first:
+      213: 4776290490670530494
+    second: pacman 1_106
+  - first:
+      213: -750719653743699136
+    second: pacman 1_107
+  - first:
+      213: 5299955381979702309
+    second: pacman 1_108
+  - first:
+      213: -4210875197075557095
+    second: pacman 1_109
+  - first:
+      213: -1851356264647868709
+    second: pacman 1_110
+  - first:
+      213: 7806838365970380462
+    second: pacman 1_111
+  - first:
+      213: -6418768277239153231
+    second: pacman 1_112
+  - first:
+      213: -7117853510349437118
+    second: pacman 1_113
+  - first:
+      213: -3124550345638514914
+    second: pacman 1_114
+  - first:
+      213: -1592193062866389646
+    second: pacman 1_115
+  - first:
+      213: 2497300132060687175
+    second: pacman 1_116
+  - first:
+      213: -3565462634177261942
+    second: pacman 1_117
+  - first:
+      213: -1506852788691076988
+    second: pacman 1_118
+  - first:
+      213: 4373530825085630247
+    second: pacman 1_119
+  - first:
+      213: 9003381761920453799
+    second: pacman 1_120
+  - first:
+      213: -3849994923973238391
+    second: pacman 1_121
+  - first:
+      213: -1980659211605790447
+    second: pacman 1_122
+  - first:
+      213: -5905233367634883939
+    second: pacman 1_123
+  - first:
+      213: 8842719501055891957
+    second: pacman 1_124
+  - first:
+      213: 5134590720586917527
+    second: pacman 1_125
+  - first:
+      213: 8642118343635955630
+    second: pacman 1_126
+  - first:
+      213: -3815857572119991758
+    second: pacman 1_127
+  - first:
+      213: -5493748501035305652
+    second: pacman 1_128
+  - first:
+      213: -6900189543060482397
+    second: pacman 1_129
+  - first:
+      213: -7985312261120442507
+    second: pacman 1_130
+  - first:
+      213: -164409572688450802
+    second: pacman 1_131
+  - first:
+      213: 1428356125083859071
+    second: pacman 1_132
+  - first:
+      213: -6472608291581728801
+    second: pacman 1_133
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pacman 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 101
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbef9441a25d89e90800000000000000
+      internalID: -7018625642551181636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman 1_1
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 101
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 495e95eaf10280a20800000000000000
+      internalID: 3028706069847860628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman 1_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca6f39321e39bd20800000000000000
+      internalID: 3294732850389019343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman 1_3
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79bf79df469f8fb90800000000000000
+      internalID: -7207736991459837033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
